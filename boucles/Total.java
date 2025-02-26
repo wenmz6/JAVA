@@ -30,7 +30,7 @@ public class Total {
 
   //  public static void main(String[] args) {
     //    int somme=0;
-      //  int nombre=-1;  // je l'initalise à une valeur différente de 0 pour pouvoir rentrer dans la boucle
+      //  int nombre=-1;  // je l'initalise Ã  une valeur diffÃ©rente de 0 pour pouvoir rentrer dans la boucle
         
         //while(nombre!=0) {
          

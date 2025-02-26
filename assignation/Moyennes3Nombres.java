@@ -15,7 +15,7 @@ public class Moyennes3Nombres {
 	nb2= new Scanner(System.in).nextInt();
 	nb3= new Scanner(System.in).nextInt();
 	
-	System.out.println("Moyenne des 3 nombres est égale à "+((nb1+nb2+nb3)/3));
+	System.out.println("Moyenne des 3 nombres est Ã©gale Ã  "+((nb1+nb2+nb3)/3));
 	
 
 	}

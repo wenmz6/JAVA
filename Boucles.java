@@ -1,4 +1,4 @@
-package découverte;
+package decouverte;
 
 import java.util.Scanner;
 
@@ -12,7 +12,7 @@ public class Boucles {
             //cpt=cpt+1;
             cpt++;
         }
-        System.out.println("après ma boucle cpt="+cpt);
+        System.out.println("aprÃ¨s ma boucle cpt="+cpt);
         do {
             System.out.println(cpt);
             //cpt=cpt-1;
@@ -20,12 +20,12 @@ public class Boucles {
             //cpt=cpt-2;
             cpt-=2;
         }while(cpt>=0);
-        System.out.println("après ma boucle cpt="+cpt);
+        System.out.println("aprÃ¨s ma boucle cpt="+cpt);
         for(int i=0; i<10;i++) {
             System.out.println("i="+i);
         }
         // System.out.println("i="+i); 
-        // ko: i est déclaré dans la boucle donc utilisable dans la boucle uniquement
+        // ko: i est dÃ©clarÃ© dans la boucle donc utilisable dans la boucle uniquement
     
         // pour saisir un nombre pair
         do {

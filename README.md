@@ -24,11 +24,11 @@
 9.
 10.
 ## boucles
-1.[Chiffre](./Boucles/Chiffre.java)
-2.[Choix](./Boucles/Choix.java)
-3.[Division](./Boucles/Division.java)
-4.[Moyenne20](./Boucles/Moyenne20.java)
-5.[Multiplication](./Boucles/Multiplication.java)
-6.[Pairs](./Boucles/Pairs.java)
-7.[Punition](./Boucles/Punition.java)
-8.[Total](./Boucles/Total.java)
+1.[Chiffre](./boucles/Chiffre.java)
+2.[Choix](./boucles/Choix.java)
+3.[Division](./boucles/Division.java)
+4.[Moyenne20](./boucles/Moyenne20.java)
+5.[Multiplication](./boucles/Multiplication.java)
+6.[Pairs](./boucles/Pairs.java)
+7.[Punition](./boucles/Punition.java)
+8.[Total](./boucles/Total.java)

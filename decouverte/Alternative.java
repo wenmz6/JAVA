@@ -5,28 +5,28 @@ import java.util.Scanner;
 public class Alternative {
 
     public static void main(String[] args) {
-        int âge;
+        int Ã¢ge;
         int nbPages =3;
-        System.out.println("entrez votre âge");
-        âge=new Scanner(System.in).nextInt();
-        if(âge<0 || âge>130)
-            System.out.println("mauvaise réponse");
+        System.out.println("entrez votre Ã¢ge");
+        Ã¢ge=new Scanner(System.in).nextInt();
+        if(Ã¢ge<0 || Ã¢ge>130)
+            System.out.println("mauvaise rÃ©ponse");
         else
-            if(âge>=18 && âge<=67)
-                System.out.println("vous êtes actifs");
+            if(Ã¢ge>=18 && Ã¢ge<=67)
+                System.out.println("vous Ãªtes actifs");
             else
                 System.out.println("profitez de la vie");
 
         /// ou
-        if(âge<0 || âge>130) {
-            System.out.println("mauvaise réponse");
+        if(Ã¢ge<0 || Ã¢ge>130) {
+            System.out.println("mauvaise rÃ©ponse");
         }else {
-            if(âge>=18 && âge<=67) {
-                System.out.println("vous êtes actifs");
+            if(Ã¢ge>=18 && Ã¢ge<=67) {
+                System.out.println("vous Ãªtes actifs");
             }else {
                 System.out.println("profitez de la vie");
             }
-        }// fin else de if(âge<0 || âge>130)
+        }// fin else de if(Ã¢ge<0 || Ã¢ge>130)
 
         System.out.print("il y a "+nbPages +" page");
         if(nbPages>1)

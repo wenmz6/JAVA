@@ -11,7 +11,7 @@
 2.[Ex circonférence/air](./assignation/Excirconférence/air.java)
 3.[Exp Booléennes](./assignation/ExpBooléennes.java)
 4.[Moyennes 3 nombres](./assignation/Moyennes3nombres.java)
-5.[Permutation variable](./assignation/ermutationvariable.java)
+5.[Permutation variable](./assignation/Permutationvariable.java)
 ##Alternative
 1.[Candidat](./assignation/Candidat.java)
 2.

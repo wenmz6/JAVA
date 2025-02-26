@@ -7,11 +7,11 @@
 6.[Boucles](./decouverte/Boucles.java)
 7.[Ex_01](./decouverte/Ex_01.java)
 ## assignation
-1.[Les Calculs](./assignation/LesCalculs.java)
-2.[Ex circonférence/air](./assignation/Excirconférence/air.java)
-3.[Exp Booléennes](./assignation/ExpBooléennes.java)
-4.[Moyennes 3 nombres](./assignation/Moyennes3nombres.java)
-5.[Permutation variable](./assignation/Permutationvariable.java)
+1.[Les Calculs](./assignation/Calculs.java)
+2.[Ex circonférence/air](./assignation/CercleCirconferenceAire.java)
+3.[Exp Booléennes](./assignation/ExpBooleennes.java)
+4.[Moyennes 3 nombres](./assignation/Moyennes3Nombres.java)
+5.[Permutation variable](./assignation/Permutation3Varables.java)
 ## alternative
 1.[Candidat](./assignation/Candidat.java)
 2.

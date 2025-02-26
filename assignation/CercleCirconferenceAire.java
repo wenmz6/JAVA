@@ -19,7 +19,7 @@ public class CercleCirconferenceAire {
 		aire=Math.PI*(Math.pow(rayon,2));
 		
 		
-		System.out.println("Circonférence="+ circonference);
+		System.out.println("CirconfÃ©rence="+ circonference);
 		System.out.println("Aire="+ aire);
 		
 		

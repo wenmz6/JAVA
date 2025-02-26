@@ -45,7 +45,7 @@ public class ExpBooleennes {
 			System.out.println("correct");
 		}
 		else System.out.println("faux");
-		// Exercice 5: le nombre est une année bissextile
+		// Exercice 5: le nombre est une annÃ©e bissextile
 		
 		
 			

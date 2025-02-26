@@ -23,7 +23,7 @@
 1.
 1.
 1.
-## boucles
+## Boucles
 1.  [Chiffre](./boucles/Chiffre.java)
 1.  [Choix](./boucles/Choix.java)
 1.  [Division](./boucles/Division.java)

@@ -1,4 +1,4 @@
-##Découverte
+## decouverte
 1.[Les Alternatives](./decouverte/LesAlternatives.java)
 2.[Les Opérateurs](./decouverte/LesOpérateurs.java)
 3.[Les Saisies](./decouverte/LesSaisies.java)
@@ -6,13 +6,13 @@
 5.[La Concaténation](./decouverte/LaConcaténation.java)
 6.[Boucles](./decouverte/Boucles.java)
 7.[Ex_01](./decouverte/Ex_01.java)
-##assignation
+## assignation
 1.[Les Calculs](./assignation/LesCalculs.java)
 2.[Ex circonférence/air](./assignation/Excirconférence/air.java)
 3.[Exp Booléennes](./assignation/ExpBooléennes.java)
 4.[Moyennes 3 nombres](./assignation/Moyennes3nombres.java)
 5.[Permutation variable](./assignation/Permutationvariable.java)
-##Alternative
+## alternative
 1.[Candidat](./assignation/Candidat.java)
 2.
 3.
@@ -23,7 +23,7 @@
 8.
 9.
 10.
-##Boucles
+## boucles
 1.[Chiffre](./Boucles/Chiffre.java)
 2.[Choix](./Boucles/Choix.java)
 3.[Division](./Boucles/Division.java)

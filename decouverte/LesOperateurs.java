@@ -8,9 +8,9 @@ public class LesOperateurs {
 		nb1=12;
 		nb2=13;
 		nb3=3;
-		//opérateurs mathématiques
+		//opÃ©rateurs mathÃ©matiques
 		System.out.println("somme de nb1 et nb2:"		+(nb1+nb2));
-		System.out.println("différence de nb1 et nb2:"	+(nb1-nb2));
+		System.out.println("diffÃ©rence de nb1 et nb2:"	+(nb1-nb2));
 		System.out.println("produit de nb1 et nb2:"		+(nb1*nb2));
 		System.out.println("division de nb1 et nb2:"	+((double)nb1/nb2));
 		// pour transtyper (cast) la variable, pour la rendre temporairement d'un autre type
@@ -18,13 +18,13 @@ public class LesOperateurs {
 		// le .0 indique que ce sera un type double
 		
 		// le modulo
-		System.out.println("reste de la division entière : " + (nb2%nb1));
+		System.out.println("reste de la division entiÃ¨re : " + (nb2%nb1));
 		
 		//les puissances
 		// pour 2exposants3
 		System.out.println(Math.pow(2,3));
-		// pour la racine carrée Math.pow(2,0.5) le 0.5 est la racine carrée ou faire Math.sqrt
-		// opérateur d'assignation
+		// pour la racine carrÃ©e Math.pow(2,0.5) le 0.5 est la racine carrÃ©e ou faire Math.sqrt
+		// opÃ©rateur d'assignation
 
 		nb1 = nb2  ;
 
@@ -48,7 +48,7 @@ public class LesOperateurs {
 		nb1-=1; // idem nb1 = nb1-1;
 		nb1--;  // idem nb1 = nb1-1;
 
-		// opérateurs de comparaison
+		// opÃ©rateurs de comparaison
 
 		System.out.println("nb1=25? "+ (nb1==25)); // ATTENTION ==
 		System.out.println("nb1<>25? "+ (nb1!=25));  // ATTENTION !=
@@ -66,17 +66,17 @@ public class LesOperateurs {
 		System.out.println("s1 = s2 ?"+ s1.equalsIgnoreCase(s2));
 		System.out.println("s1 = 'lapin' ?"+ s1.equalsIgnoreCase("LAPIN"));
 
-		// opérateurs booléens
+		// opÃ©rateurs boolÃ©ens
 
-		System.out.println("nb1>0 et nb1<10"+ (nb1>0 & nb1<10)); // évaluation longue
-		System.out.println("nb1>0 et nb1<10"+ (nb1>0 && nb1<10)); // évaluation courte
+		System.out.println("nb1>0 et nb1<10"+ (nb1>0 & nb1<10)); // Ã©valuation longue
+		System.out.println("nb1>0 et nb1<10"+ (nb1>0 && nb1<10)); // Ã©valuation courte
 
-		System.out.println("nb1>0 ou nb1<10"+ (nb1>0 | nb1<10)); // évaluation longue
-		System.out.println("nb1>0 ou nb1<10"+ (nb1>0 || nb1<10)); // évaluation courte
+		System.out.println("nb1>0 ou nb1<10"+ (nb1>0 | nb1<10)); // Ã©valuation longue
+		System.out.println("nb1>0 ou nb1<10"+ (nb1>0 || nb1<10)); // Ã©valuation courte
 
 		System.out.println("nb1>0 xor nb1<10"+ (nb1>0 ^ nb1<10)); // ou exclusif
 		// soit l'un soit l'autre mais pas les 2
-		// renvoie si les opérandes sont contraires
+		// renvoie si les opÃ©randes sont contraires
 
 		
 	}

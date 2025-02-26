@@ -1,11 +1,11 @@
-##main
-Les Alternative
-Les Opérateurs
-Les Saisies
-Les Type de données
-La Concaténation
-Les Calculs
-Ex circonférence/air
-Exp Booléennes
-Moyennes 3 nombres
-Permutation variable
+##Alternatives
+1.[Les Alternatives](./alternative/LesAlternatives.java)
+2.[Les Opérateurs](./alternative/LesOpérateurs.java)
+[Les Saisies](./alternative/LesSaisies.java)
+[Les Type de données](./alternative/LesTypededonnées.java)
+[La Concaténation](./alternative/LaConcaténation.java)
+[Les Calculs](./alternative/LesCalculs.java)
+[Ex circonférence/air](./alternative/Excirconférence/air.java)
+[Exp Booléennes](./alternative/ExpBooléennes.java)
+[Moyennes 3 nombres](./alternative/Moyennes3nombres.java)
+[Permutation variable](./alternative/ermutationvariable.java)

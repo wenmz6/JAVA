@@ -3,7 +3,7 @@ package decouverte;
 public class Ex_01 {
 
 	public static void main(String[] args) {
-		// début de mon programme
+		// dÃ©but de mon programme
 		int nb=4;	// var:nb:num=4
 		/*
 		 * voici un commentaire
@@ -25,13 +25,13 @@ public class Ex_01 {
 		
 		System.out.println("nb="+nb);
 		System.out.println("au revoir");
-		System.out.print("à bientôt\n\n");
+		System.out.print("Ã  bientÃ´t\n\n");
 		System.out.print("les amis");
-		System.out.println("écire syso puis crtl barre d'espace");
+		System.out.println("Ã©cire syso puis crtl barre d'espace");
 			/*
 			 * raccourci pour le system.out.println
 			 * print sans le ln pour mettre en une seule ligne
-			 * \n pour aller à la ligne
+			 * \n pour aller Ã  la ligne
 			 */
 		
 		

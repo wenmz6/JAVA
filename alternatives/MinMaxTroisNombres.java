@@ -40,5 +40,15 @@ public class MinMaxTroisNombres {
 		
 		}
 	
-
+//System.out.println("Entrez un nombre");
+//min= new Scanner(System.in).nextInt();
+//max= new Scanner(System.in).nextInt();
+//System.out.println("Entrez un nombre");
+//n2= new Scanner(System.in).nextInt();
+//if(min>n2) min=n2
+//if(max<n2) max=n2
+//System.out.println("Entrez un nombre");
+//n2= new Scanner(System.in).nextInt();
+//if(min>n2) min=n2
+//if(max<n2) max=n2
 

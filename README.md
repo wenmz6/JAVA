@@ -13,16 +13,16 @@
 1.  [Moyennes 3 nombres](./assignation/Moyennes3Nombres.java)
 1.  [Permutation variable](./assignation/Permutation3Varables.java)
 ## Alternative
+1.  [Amende](./assignation/Candidat.java)
 1.  [Candidat](./assignation/Candidat.java)
-1.
-1.
-1.
-1.
-1.
-1.
-1.
-1.
-1.
+1.  [CompareDix](./assignation/Candidat.java)
+1.  [DecomposeArgent](./assignation/Candidat.java)
+1.  [Equation](./assignation/Candidat.java)
+1.  [MinMaxTroisNombre](./assignation/Candidat.java)
+1.  [Operation](./assignation/Candidat.java)
+1.  [PlusGrand](./assignation/Candidat.java)
+1.  [Ristourne](./assignation/Candidat.java)
+1.  
 ## Boucles
 1.  [Chiffre](./boucles/Chiffre.java)
 1.  [Choix](./boucles/Choix.java)

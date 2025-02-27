@@ -5,7 +5,8 @@
 1.  [Les Type de données](./decouverte/LesTypededonnées.java)
 1.  [La Concaténation](./decouverte/LaConcaténation.java)
 1.  [Boucles](./decouverte/Boucles.java)
-1.  [Ex_01](./decouverte/Ex_01.java)
+1.  [UtilSaisie](./decouverte/UtilSaisie.java)
+1.  [MéthodesCoucheUn](./decouverte/MéthodesCoucheUn.java)
 ## Assignation
 1.  [Les Calculs](./assignation/Calculs.java)
 1.  [Ex circonférence/air](./assignation/CercleCirconferenceAire.java)

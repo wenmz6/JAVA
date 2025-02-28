@@ -7,6 +7,8 @@
 1.  [Boucles](./decouverte/Boucles.java)
 1.  [UtilSaisie](./decouverte/UtilSaisie.java)
 1.  [MéthodesCoucheUn](./decouverte/MéthodesCoucheUn.java)
+1.  [VecteurPremiereCouche](./decouverte/VecteurPremiereCouche.java)
+1.  [UtilVecteur](./decouverte/UtilVecteur.java)
 ## Assignation
 1.  [Les Calculs](./assignation/Calculs.java)
 1.  [Ex circonférence/air](./assignation/CercleCirconferenceAire.java)

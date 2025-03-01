@@ -25,7 +25,6 @@
 1.  [Operation](./alternatives/Operation.java)
 1.  [PlusGrand](./alternatives/PlusGrand.java)
 1.  [Ristourne](./alternatives/Ristourne.java)
-1.  
 ## Boucles
 1.  [Chiffre](./boucles/Chiffre.java)
 1.  [Choix](./boucles/Choix.java)
@@ -35,3 +34,8 @@
 1.  [Pairs](./boucles/Pairs.java)
 1.  [Punition](./boucles/Punition.java)
 1.  [Total](./boucles/Total.java)
+1.  [Min & Max](boucles/MinMax.java)
+## Vecteurs
+1.  [Un Sur Deux](vecteur/UnSurDeux.java)
+1.  [Vecteur aléatoire](vecteur/VecteurAléat.java)
+1.  [Vecteur à l'envers](vecteur/AlEnvers.java)

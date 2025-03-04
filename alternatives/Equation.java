@@ -4,28 +4,25 @@ import java.util.Scanner;
 
 public class Equation {
 
-	public static void main(String[] args) {
-		// Ecrire le programme qui permet de résoudre une équation du premier degré (ax+b=0)
-		int a,b;
-		a= new Scanner(System.in).nextInt();
-		b= new Scanner(System.in).nextInt();
-		
-		if ((a==0) & (b==0)){
-			System.out.println("Toutes les valeurs sont possibles");
-		}
-		else {
-			if ((a==0) & (b!=0)) {
-				System.out.println(" impossible");
-			}
-			else {
-				System.out.println("x= "+(-b/a));
-			}
-					
-				
-			
-		}
-			
-	}
+    public static void main(String[] args) {
+        // Ecrire le programme qui permet de rï¿½soudre une ï¿½quation du premier degrï¿½ (ax+b=0)
+        int a, b;
+        a = new Scanner(System.in).nextInt();
+        b = new Scanner(System.in).nextInt();
+
+        if ((a == 0) & (b == 0)) {
+            System.out.println("Toutes les valeurs sont possibles");
+        } else {
+            if ((a == 0) & (b != 0)) {
+                System.out.println(" impossible");
+            } else {
+                System.out.println("x= " + (-b / a));
+            }
+
+
+        }
+
+    }
 }
 
 

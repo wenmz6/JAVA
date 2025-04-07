@@ -13,10 +13,12 @@ public class Permutation3Varables {
 		int c= new Scanner(System.in).nextInt();
 		
 		int x=a;
-		int y=c;
-		c=a;
-		a=b;
-		b=x;
+		
+
+	x = b;
+        b = c;
+        c = a;     
+        a = x;
 
 	
 		System.out.println(a);

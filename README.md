@@ -50,3 +50,4 @@
 1.  [DoubleNombre](vecteur/DoubleNombre.java)
 1.  [Inverse](vecteur/Inverse.java)
 1.  [Lotto](vecteur/Lotto.java)
+1.  [ZeroALaFin](vecteur/ZeroALaFin.java)

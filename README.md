@@ -35,7 +35,7 @@
 1.  [Punition](./boucles/Punition.java)
 1.  [Total](./boucles/Total.java)
 1.  [Min & Max](boucles/MinMax.java)
-1.[Min & Max](boucles/multiplications2)
+1.  [Multiplications2](boucles/multiplications2.java)
 ## Vecteurs
 1.  [Un Sur Deux](vecteur/UnSurDeux.java)
 1.  [Vecteur aléatoire](vecteur/VecteurAléat.java)

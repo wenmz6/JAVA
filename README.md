@@ -36,6 +36,7 @@
 1.  [Total](./boucles/Total.java)
 1.  [Min & Max](boucles/MinMax.java)
 1.  [Multiplications2](boucles/multiplications2.java)
+1.  [Intervalle]( boucles/Intervalle.java)  
 ## Vecteurs
 1.  [Un Sur Deux](vecteur/UnSurDeux.java)
 1.  [Vecteur aléatoire](vecteur/VecteurAléat.java)

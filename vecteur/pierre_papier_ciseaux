@@ -1,0 +1,111 @@
+import java.util.Random;
+
+public class question4 {
+
+    public static boolean gagnant(String[] choix_ordinateur, int choix_utilisateur, int compteur_Point_Joueur,
+            int compteur_Point_Ordinateur) {
+
+        String ciseaux = "ciseaux";
+        String papier = "papier";
+        String pierre = "pierre";
+
+        boolean gagnant = compteur_Point_Joueur == 3;
+
+        // quand l'utilisateur gagne 1 point
+
+        if (choix_utilisateur == 1 && choix_ordinateur.equals(ciseaux)) {
+            System.out.println("L'utilisatuer a gagné");
+            compteur_Point_Joueur++;
+
+        } else if (choix_utilisateur == 2 && choix_ordinateur.equals(pierre)) {
+            System.out.println("L'utilisatuer a gagné");
+            compteur_Point_Joueur++;
+
+        } else if (choix_utilisateur == 3 && choix_ordinateur.equals(papier)) {
+            System.out.println("L'utilisatuer a gagné");
+            compteur_Point_Joueur++;
+        }
+
+        // pour les égalités
+
+        if (choix_utilisateur == 1 && choix_ordinateur.equals(pierre)) {
+            System.out.println("égalité");
+
+        } else if (choix_utilisateur == 2 && choix_ordinateur.equals(papier)) {
+            System.out.println("égalité");
+
+        } else if (choix_utilisateur == 3 && choix_ordinateur.equals(ciseaux)) {
+            System.out.println("égalité");
+
+        }
+
+        // quand l'ordinateur gagne 1 point
+
+        if (choix_ordinateur.equals(pierre) && choix_utilisateur == 3) {
+            System.out.println("L'utilisatuer a gagné");
+            compteur_Point_Joueur++;
+
+        } else if (choix_ordinateur.equals(papier) && choix_utilisateur == 1) {
+            System.out.println("L'utilisatuer a gagné");
+            compteur_Point_Joueur++;
+
+        } else if (choix_ordinateur.equals(ciseaux) && choix_utilisateur == 2) {
+            System.out.println("L'utilisatuer a gagné");
+            compteur_Point_Joueur++;
+        }
+        return gagnant;
+    }
+
+    public static void main(String[] args) throws Exception {
+
+        int choix_utilisateur = 0;
+
+        boolean gagner = true;
+
+        int compteur_Point_Joueur = 0;
+        int compteur_Point_Ordinateur = 0;
+
+        while (!gagner) {
+
+            String choix_ordinateur[] = { "pierre", "papier", "ciseaux" };
+
+            Random random = new Random();
+
+            String random = choix_ordinateur[random.nextLine(choix_ordinateur.length)];
+            System.out.println("Utilisateur: 1. pierre, 2. papier, 3. ciseaux");
+
+            switch (choix_utilisateur) {
+                case 1:
+                    System.out.println("Pierre");
+                    break;
+                case 2:
+                    System.out.println("Papier");
+                    break;
+                case 3:
+                    System.out.println("Ciseaux");
+                    break;
+
+                default:
+                    System.out.println(" Veuillez choisir une des 3 propositions");
+                    break;
+            }
+
+            gagnant();
+
+            System.out.println("Le score de l'utilisateur est de " + compteur_Point_Joueur);
+            System.out.println("Le score de l'ordinateur est de " + compteur_Point_Ordinateur);
+
+            if (compteur_Point_Joueur == 3) {
+                System.out.println("Bravo, vous avez gagné");
+                gagner = true;
+            }
+            if (compteur_Point_Ordinateur == 3) {
+                System.out.println("L'ordinateur a gagné");
+                gagner = true;
+            }
+
+        }
+
+    }
+
+}
